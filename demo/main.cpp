@@ -1,4 +1,4 @@
-// Copyright 2021 Name <mail@mail.ru>
+// Copyright 2021 andreymuskat <andreymuskat@yandex.ru>
 
 #include <Inspector.hpp>
 

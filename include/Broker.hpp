@@ -6,7 +6,7 @@
 #include <string>
 #include <vector>
 
-// typedef std::map<std::string, std::vector<FinFile>> AccFilesMap;
+
 using AccFilesMap = std::map<std::string, std::vector<FinFile>>;
 
 class Broker {

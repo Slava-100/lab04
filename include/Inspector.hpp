@@ -1,4 +1,4 @@
-// Copyright 2021 Name <mail@mail.ru>
+// Copyright 2021 andreymuskat <andreymuskat@yandex.ru>
 
 #ifndef INCLUDE_INSPECTOR_HPP_
 #define INCLUDE_INSPECTOR_HPP_
